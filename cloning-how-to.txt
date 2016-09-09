@@ -1,0 +1,2 @@
+This is how you clone a repository.
+Very straight-forward.
